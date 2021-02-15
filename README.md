@@ -5,8 +5,8 @@ Ini merupakan program parkir yang kami buat untuk mempermudah dalam pengelolaan 
 
 ## Nama Kelompok
 1. Adam Nur Kridabayu             19104078
-2. M. ALFIAN MAULANA AL-AZHAR     191040
-3. Adil El-FARUQI                 191040
+2. M. ALFIAN MAULANA AL-AZHAR     19104019
+3. Adil El-FARUQI                 19104081
 
 ## Latar Belakang Program
 pada jaman modern seperti sekarang ini, kemajuan teknologi sangat pesat dan berkembang. seiring perkembangan 
